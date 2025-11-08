@@ -1,0 +1,11 @@
+{
+  "name": "portfolio-analytics-netlify",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "netlify dev"
+  },
+  "dependencies": {
+    "mongoose": "^7.5.0"
+  }
+}
